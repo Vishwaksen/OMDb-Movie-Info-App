@@ -1,4 +1,6 @@
-OMDb MovieInfo App
+# OMDb-Movie-Info-App
+
+OMDb MovieInfo App :
 
 Movie info app built with JavaScript/jQuery that fetches movie data from the OMDb API
 
