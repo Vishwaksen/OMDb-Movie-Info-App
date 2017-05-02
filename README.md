@@ -1,2 +1,8 @@
-# OMDb-Movie-Info-App
-Movie info app built with JavaScript and uses the OMDb API
+OMDb MovieInfo App
+
+Movie info app built with JavaScript/jQuery that fetches movie data from the OMDb API
+
+Usage :  Run index.html on any server
+Live server => npm install -g live-server
+
+OMDb MovieInfo App Link = > http://htmlpreview.github.io/?https://github.com/Vishwaksen/OMDb-Movie-Info-App/blob/master/index.html
